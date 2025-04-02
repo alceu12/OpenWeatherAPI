@@ -66,5 +66,5 @@ Retorna o histórico de todas as consultas climáticas realizadas.
 
 A documentação completa da API está disponível através do Swagger UI em:
 ```
-http://localhost:8080/swagger-ui.html
+http://localhost:8080/swagger-ui
 ``` 
