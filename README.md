@@ -6,7 +6,7 @@ API para consulta de dados climáticos utilizando a API OpenWeather.
 
 - Java 17
 - Spring Boot 3.2.3
-- PostgreSQL
+- PostgreSQL (Render)
 - Docker
 - OpenWeather API
 - Swagger/OpenAPI
@@ -27,6 +27,7 @@ API para consulta de dados climáticos utilizando a API OpenWeather.
    SPRING_DATASOURCE_USERNAME=
    SPRING_DATASOURCE_PASSWORD=
    ```
+   **Nota**: O banco de dados já está configurado no Render, não é necessário criar um novo banco.
 
 ## Executando a Aplicação
 
